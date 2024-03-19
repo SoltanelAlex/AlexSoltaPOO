@@ -1,0 +1,2 @@
+D:\2023-2024 Semestru 2\Proiect Visual Studio\Lab3\x64\Debug\Lab3.vcxproj.AssemblyReference.cache
+D:\2023-2024 Semestru 2\Proiect Visual Studio\Lab3\x64\Debug\Lab3.exe
